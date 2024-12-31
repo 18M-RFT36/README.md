@@ -36,7 +36,7 @@
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=18M-RFT36&theme=radical" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=18M-RFT36&theme=radical&exclude={exclude}" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=18M-RFT36&theme=radical" />
+    
 </div>
 <br>
 <br>
