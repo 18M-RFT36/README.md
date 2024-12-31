@@ -18,8 +18,9 @@
 <div align="center">
   </a>
   <a href="mailto:jiwoo5967@gmail.com">
-    <img
-      src="https://img.shields.io/badge/jiwoo5967@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/jiwoo5967@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  <a href="discordto:18m_rft36">
+     <img src="https://img.shields.io/badge/18m_rft36-D14836?style=for-the-badge&logo=discord&logoColor=white"/>&nbsp
   </a>
 </div>
 
