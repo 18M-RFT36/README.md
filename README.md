@@ -32,9 +32,9 @@
 <h3 align="center">**Contact**</h3>
 <div align="center">
   </a>
-  <a href="mailto:wawa111027@gmail.com">
+  <a href="mailto:jiwoo5967@gmail.com">
     <img
-      src="https://img.shields.io/badge/wawa111027@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/jiwoo5967@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 
@@ -43,7 +43,7 @@
 <br>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Po0411&show_icons=true&theme=synthwave">
+  <img src="https://github-readme-stats.vercel.app/api?username=18M-RFT36&show_icons=true&theme=synthwave">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Po0411&layout=compact&theme=synthwave">
 <br>
 <br>
