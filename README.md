@@ -5,9 +5,9 @@
 <div align="center">
   **Languages and Tools**
   <div class="badge-container">
-    <img src="https://img.shields.io/badge/C%23-00BFFF?style=for-the-badge&logo=c-sharp&logoColor=black" alt="C# 뱃지">
-    <img src="https://img.shields.io/badge/Python-FFCF00?style=for-the-badge&logo=python&logoColor=black" alt="Python 뱃지">
-    <img src="https://img.shields.io/badge/Unity-DC143C?style=for-the-badge&logo=unity&logoColor=black" alt="Unity 뱃지">
+    <img src="https://img.shields.io/badge/C%23-A8B9CC?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# 뱃지">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 뱃지">
+    <img src="https://img.shields.io/badge/Unity-808080?style=for-the-badge&logo=unity&logoColor=white" alt="Unity 뱃지">
   </div>
 </div>
 <br>
@@ -20,7 +20,9 @@
   <a href="mailto:jiwoo5967@gmail.com">
     <img src="https://img.shields.io/badge/jiwoo5967@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   <a href="discordto:18m_rft36">
-     <img src="https://img.shields.io/badge/18m_rft36-D14836?style=for-the-badge&logo=discord&logoColor=white"/>&nbsp
+     <img src="https://img.shields.io/badge/18m_rft36-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>&nbsp
+  <a href="kakaotalkto:jiwoo5967">
+     <img src="https://img.shields.io/badge/jiwoo5967-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black"/>&nbsp
   </a>
 </div>
 
@@ -31,7 +33,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=18M-RFT36&show_icons=true&theme=synthwave">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=18M-RFT36&layout=compact&theme=synthwave">
-<br>
 <br>
 <br>
 <div align="center">
