@@ -24,7 +24,7 @@
     <a href="https://whgkfkd.tistory.com/">
       <img src="https://img.shields.io/badge/Tistory-E34F26?style=flat-square&logo=tistory&logoColor=white">
     </a>
-    <a href="https://www.instagram.com/chowawa_16/">
+    <a href="https://www.instagram.com/18m_rft36/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
     </a>
 </div>
@@ -44,14 +44,14 @@
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=18M-RFT36&show_icons=true&theme=synthwave">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Po0411&layout=compact&theme=synthwave">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=18M-RFT36&layout=compact&theme=synthwave">
 <br>
 <br>
 <br>
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Po0411&theme=radical" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Po0411&theme=radical&exclude={exclude}" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Po0411&theme=radical" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=18M-RFT36&theme=radical" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=18M-RFT36&theme=radical&exclude={exclude}" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=18M-RFT36&theme=radical" />
 </div>
 <br>
 <br>
