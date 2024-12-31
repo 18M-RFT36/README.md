@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=240&section=header&text=Game%20Make%20and%20Play%20Game!&fontSize=32&animation=fadeIn&fontAlignY=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=240&section=header&text=Make%20and%20Play%20Game!&fontSize=32&animation=fadeIn&fontAlignY=40&fontColor=ffffff"/>
 <br>
 <br>
 <div align="center">
@@ -8,7 +8,6 @@
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# 뱃지">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 뱃지">
     <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity 뱃지">
-    <img src=file:///C:/Users/user/Downloads/steam.svg>
   </div>
 </div>
 <br>
